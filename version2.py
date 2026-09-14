@@ -3,7 +3,7 @@ import numpy as np
 import os
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV, TimeSeriesSplit
-from eval_common import get_timeseries_cv_predictions, evaluate_model, find_best_threshold, log_results
+from eval_common import get_timeseries_cv_predictions, get_race_aware_splits, evaluate_model, find_best_threshold, log_results
 
 DATA_PATH = "f1_v2.csv"
 RESULTS_PATH = "v2_model_results.csv"
@@ -14,23 +14,6 @@ N_ESTIMATORS = 200
 CLASS_WEIGHT = None
 MAX_DEPTH = 10
 MIN_SAMPLES_LEAF = 2
-
-
-def get_race_aware_splits(race_groups, n_splits=5):
-    unique_races = race_groups.drop_duplicates().reset_index(drop=True)
-    tss = TimeSeriesSplit(n_splits=n_splits)
-
-    splits = []
-    for train_race_idx, test_race_idx in tss.split(unique_races):
-        train_races = set(unique_races.iloc[train_race_idx])
-        test_races = set(unique_races.iloc[test_race_idx])
-
-        train_idx = np.where(race_groups.isin(train_races).values)[0]
-        test_idx = np.where(race_groups.isin(test_races).values)[0]
-        splits.append((train_idx, test_idx))
-
-    return splits
-
 
 def main():
     df = pd.read_csv(DATA_PATH)

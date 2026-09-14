@@ -24,6 +24,21 @@ def get_timeseries_cv_predictions(model, X, y, race_groups, n_splits=5):
 
     return y_proba
 
+def get_race_aware_splits(race_groups, n_splits=5):
+    unique_races = race_groups.drop_duplicates().reset_index(drop=True)
+    tss = TimeSeriesSplit(n_splits=n_splits)
+
+    splits = []
+    for train_race_idx, test_race_idx in tss.split(unique_races):
+        train_races = set(unique_races.iloc[train_race_idx])
+        test_races = set(unique_races.iloc[test_race_idx])
+
+        train_idx = np.where(race_groups.isin(train_races).values)[0]
+        test_idx = np.where(race_groups.isin(test_races).values)[0]
+        splits.append((train_idx, test_idx))
+
+    return splits
+
 def top3_per_race_precision(df, prob_col='PodiumProb', group_cols=['Year', 'RoundNumber']):
     correct = 0
     total_predictions = 0
