@@ -1,0 +1,45 @@
+name: Update Data From FastF1 API
+
+on:
+  schedule:
+    - cron: '0 0 * * MON'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Check out repository to the runner
+        uses: actions/checkout@v7
+      - name: Set up python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.14.6'
+      - name: Set up fastf1 cache
+        uses: actions/cache@v6
+        with:
+          path: f1_cache
+          key: f1-cache-v1
+      - name: Install dependencies
+        run: |
+          pip install -r app/requirements.txt
+          pip install fastf1
+      - name: Build race data
+        run: python scripts/build_races.py
+      - name: Build sprint data
+        run: python scripts/build_sprints.py
+      - name: build v2 features
+        run: python scripts/build_v2_features.py
+      - name: build v3 features
+        run: python scripts/build_v3_features.py
+      - name: run final v3 model
+        run: python models/version3_final.py
+      - name: commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/ results/
+          git diff --staged --quiet || git commit -m "automated weekly data refresh"
+          git push
