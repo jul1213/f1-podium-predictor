@@ -1,6 +1,7 @@
 import fastf1
 import pandas as pd
 import time
+import datetime
 import os
 from pipeline_common import log_failure, get_done_set, append_race, load_with_retry
 
@@ -17,7 +18,7 @@ def main():
 
     expected = set()
 
-    for year in range(2018, 2026):
+    for year in range(2018, datetime.now().year + 1):
         schedule = fastf1.get_event_schedule(year)
         race_schedule = schedule[schedule['EventFormat'] != 'testing']
 

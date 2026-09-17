@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 from sklearn.ensemble import RandomForestClassifier
 from eval_common import evaluate_model, log_results
 
@@ -8,6 +9,7 @@ CLASS_WEIGHT = None
 MAX_DEPTH = 10
 MIN_SAMPLES_LEAF = 5
 THRESH = 0.45
+LOCKED_TEST_YEARS = (2024, 2025)
 
 FEATURES = [
         'TrackVolatility',
@@ -21,7 +23,7 @@ def main():
     df = pd.read_csv('data/f1_v3.csv')
 
     train = df[df['Year'] <= 2023].dropna(subset=FEATURES).copy()
-    test = df[df['Year'] >= 2024].dropna(subset=FEATURES).copy()
+    test = df[df['Year'].isin(LOCKED_TEST_YEARS)].dropna(subset=FEATURES).copy()
 
     X_train = train[FEATURES]
     y_train = train['Podium']
@@ -38,10 +40,18 @@ def main():
 
     test['PodiumProb'] = rf.predict_proba(X_test)[:, 1]
 
-    final_results = evaluate_model(test, 'v3_track_LOCKED', threshold=THRESH)
-    log_results(final_results, 'results/v3_final_locked_results.csv')
+    # shoudl only be run once - so skip if exists
+    if not os.path.exists('results/v3_final_locked_results.csv'):
+        final_results = evaluate_model(test, 'v3_track_LOCKED', threshold=THRESH)
+        log_results(final_results, 'results/v3_final_locked_results.csv')
 
-    predictions_out = test[['Year', 'RoundNumber', 'EventName', 'Abbreviation',
+    # for dashboard: 2024 season + onwards
+    inference_set = df[df['Year'] >= 2024].dropna(subset=FEATURES).copy()
+    X_inference = inference_set[FEATURES]
+
+    inference_set['PodiumProb'] = rf.predict_proba(X_inference)[:, 1]
+
+    predictions_out = inference_set[['Year', 'RoundNumber', 'EventName', 'Abbreviation',
                               'GridPosition', 'ClassifiedPosition', 'Status', 'Podium', 'PodiumProb']].copy()
     predictions_out.to_csv('data/f1_v3_predictions.csv', index=False)
 
