@@ -5,8 +5,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV, TimeSeriesSplit
 from eval_common import get_timeseries_cv_predictions, get_race_aware_splits, evaluate_model, find_best_threshold, log_results
 
-DATA_PATH = "f1_v2.csv"
-RESULTS_PATH = "v2_model_results.csv"
+DATA_PATH = "data/f1_v2.csv"
+RESULTS_PATH = "results/v2_model_results.csv"
 RANDOM_STATE = 67
 
 # baseline hyperparam for rf

@@ -24,13 +24,13 @@ with st.expander("Read more!", type='compact'):
 
 @st.cache_data
 def load_predictions():
-    return pd.read_csv("f1_v3_predictions.csv")
+    return pd.read_csv("data/f1_v3_predictions.csv")
 
 @st.cache_data
 def load_results():
-    v1 = pd.read_csv("v1_model_results.csv")
-    v2 = pd.read_csv("v2_model_results.csv")
-    v3 = pd.read_csv("v3_final_locked_results.csv")
+    v1 = pd.read_csv("results/v1_model_results.csv")
+    v2 = pd.read_csv("results/v2_model_results.csv")
+    v3 = pd.read_csv("results/v3_final_locked_results.csv")
     return v1, v2, v3
 
 df = load_predictions()

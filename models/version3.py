@@ -3,8 +3,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV
 from eval_common import get_timeseries_cv_predictions, get_race_aware_splits, find_best_threshold, evaluate_model, log_results
 
-DATA_PATH = "f1_v3.csv"
-RESULTS_PATH = "v3_model_results.csv"
+DATA_PATH = "data/f1_v3.csv"
+RESULTS_PATH = "results/v3_model_results.csv"
 RANDOM_STATE = 67
 
 # v2 best rf hyper params:

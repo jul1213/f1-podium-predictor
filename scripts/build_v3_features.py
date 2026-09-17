@@ -30,10 +30,10 @@ def compute_track_volatility(df):
     )
 
 def main():
-    df = pd.read_csv('f1_v2.csv')
+    df = pd.read_csv('data/f1_v2.csv')
     track_df = compute_track_volatility(df)
 
-    track_df.to_csv('f1_v3.csv', index=False)
+    track_df.to_csv('data/f1_v3.csv', index=False)
 
 if __name__ == '__main__':
     main()

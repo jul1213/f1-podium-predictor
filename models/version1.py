@@ -9,8 +9,8 @@ from eval_common import evaluate_model, find_best_threshold, log_results
 RANDOM_STATE = 67
 BEST_RF_THRESHOLD = 0.45
 
-DATA_PATH = 'combined_races.csv'
-RESULTS_PATH = 'v1_model_results.csv'
+DATA_PATH = 'data/combined_races.csv'
+RESULTS_PATH = 'results/v1_model_results.csv'
 
 def get_cv_predictions(model, X, y, groups, n_splits=5):
     gkf = GroupKFold(n_splits)

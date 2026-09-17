@@ -18,7 +18,7 @@ FEATURES = [
     ]
 
 def main():
-    df = pd.read_csv('f1_v3.csv')
+    df = pd.read_csv('data/f1_v3.csv')
 
     train = df[df['Year'] <= 2023].dropna(subset=FEATURES).copy()
     test = df[df['Year'] >= 2024].dropna(subset=FEATURES).copy()
@@ -39,11 +39,11 @@ def main():
     test['PodiumProb'] = rf.predict_proba(X_test)[:, 1]
 
     final_results = evaluate_model(test, 'v3_track_LOCKED', threshold=THRESH)
-    log_results(final_results, 'v3_final_locked_results.csv')
+    log_results(final_results, 'results/v3_final_locked_results.csv')
 
     predictions_out = test[['Year', 'RoundNumber', 'EventName', 'Abbreviation',
                               'GridPosition', 'ClassifiedPosition', 'Status', 'Podium', 'PodiumProb']].copy()
-    predictions_out.to_csv('f1_v3_predictions.csv', index=False)
+    predictions_out.to_csv('data/f1_v3_predictions.csv', index=False)
 
 
 if __name__ == '__main__':

@@ -21,8 +21,8 @@ def rolling_avg(group, col, window):
     return group[col].shift(1).rolling(window, min_periods=1).mean()
 
 def main():
-    races = pd.read_csv('combined_races.csv').rename(columns={'Points' : 'RacePoints'})
-    sprints = pd.read_csv('combined_sprints.csv').rename(columns={
+    races = pd.read_csv('data/combined_races.csv').rename(columns={'Points' : 'RacePoints'})
+    sprints = pd.read_csv('data/combined_sprints.csv').rename(columns={
         'Points' : 'SprintPoints',
         'ClassifiedPosition' : 'SprintPosition'
     })
@@ -88,7 +88,7 @@ def main():
     ]]
 
     # save
-    df.to_csv('f1_v2.csv', index=False)
+    df.to_csv('data/f1_v2.csv', index=False)
 
 if __name__ == '__main__':
     main()

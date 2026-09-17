@@ -3,11 +3,11 @@ import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from eval_common import get_timeseries_cv_predictions, evaluate_model, find_best_threshold, log_results
 
-RESULTS_PATH = 'timeseries_model_results.csv'
+RESULTS_PATH = 'results/timeseries_model_results.csv'
 RANDOM_STATE = 67
 
 def main():
-    df = pd.read_csv('combined_races.csv')
+    df = pd.read_csv('data/combined_races.csv')
 
     # sort in order of year and round number - since time series split used
     df = df.sort_values(['Year', 'RoundNumber']).reset_index(drop=True)

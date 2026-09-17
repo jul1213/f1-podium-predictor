@@ -4,7 +4,7 @@ import time
 import os
 from pipeline_common import log_failure, get_done_set, append_race, load_with_retry
 
-COMBINED_PATH = 'combined_sprints.csv'
+COMBINED_PATH = 'data/combined_sprints.csv'
 FAILED_LOG_PATH = 'failed_sprints.csv'
 
 fastf1.Cache.enable_cache('f1_cache')
