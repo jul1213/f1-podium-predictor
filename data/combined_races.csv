@@ -3453,3 +3453,306 @@ Year,RoundNumber,EventName,Location,Abbreviation,DriverId,TeamId,QualifyingPosit
 2025,24,Abu Dhabi Grand Prix,Yas Island,LAW,lawson,rb,13.0,0.87,13.0,0.0,18,0.0,Lapped,0
 2025,24,Abu Dhabi Grand Prix,Yas Island,GAS,gasly,alpine,19.0,1.261,19.0,0.0,19,0.0,Lapped,0
 2025,24,Abu Dhabi Grand Prix,Yas Island,COL,colapinto,alpine,20.0,1.683,20.0,0.0,20,0.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,RUS,russell,mercedes,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,1,Australian Grand Prix,Melbourne,ANT,antonelli,mercedes,2.0,0.293,2.0,0.0,2.0,18.0,Finished,1
+2026,1,Australian Grand Prix,Melbourne,LEC,leclerc,ferrari,4.0,0.809,4.0,0.0,3.0,15.0,Finished,1
+2026,1,Australian Grand Prix,Melbourne,HAM,hamilton,ferrari,7.0,0.96,7.0,0.0,4.0,12.0,Finished,0
+2026,1,Australian Grand Prix,Melbourne,NOR,norris,mclaren,6.0,0.957,6.0,0.0,5.0,10.0,Finished,0
+2026,1,Australian Grand Prix,Melbourne,BEA,bearman,haas,12.0,1.793,12.0,0.0,7.0,6.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,LIN,arvid_lindblad,rb,9.0,1.453,9.0,0.0,8.0,4.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,BOR,bortoleto,audi,10.0,1.703,10.0,0.0,9.0,2.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,GAS,gasly,alpine,14.0,1.983,14.0,0.0,10.0,1.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,OCO,ocon,haas,13.0,1.973,13.0,0.0,11.0,0.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,ALB,albon,williams,15.0,2.423,15.0,0.0,12.0,0.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,LAW,lawson,rb,8.0,1.476,8.0,0.0,13.0,0.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,COL,colapinto,alpine,16.0,2.682,16.0,0.0,14.0,0.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,PER,perez,cadillac,18.0,4.087,18.0,0.0,16.0,0.0,Lapped,0
+2026,1,Australian Grand Prix,Melbourne,ALO,alonso,aston_martin,17.0,3.451,17.0,0.0,,0.0,Retired,0
+2026,1,Australian Grand Prix,Melbourne,BOT,bottas,cadillac,19.0,4.726,19.0,0.0,,0.0,Retired,0
+2026,1,Australian Grand Prix,Melbourne,HAD,hadjar,red_bull,3.0,0.785,3.0,0.0,,0.0,Retired,0
+2026,1,Australian Grand Prix,Melbourne,PIA,piastri,mclaren,5.0,0.862,5.0,0.0,,0.0,Did not start,0
+2026,1,Australian Grand Prix,Melbourne,HUL,hulkenberg,audi,11.0,1.785,11.0,0.0,,0.0,Did not start,0
+2026,2,Chinese Grand Prix,Shanghai,ANT,antonelli,mercedes,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,2,Chinese Grand Prix,Shanghai,RUS,russell,mercedes,2.0,0.222,2.0,0.0,2.0,18.0,Finished,1
+2026,2,Chinese Grand Prix,Shanghai,HAM,hamilton,ferrari,3.0,0.351,3.0,0.0,3.0,15.0,Finished,1
+2026,2,Chinese Grand Prix,Shanghai,LEC,leclerc,ferrari,4.0,0.364,4.0,0.0,4.0,12.0,Finished,0
+2026,2,Chinese Grand Prix,Shanghai,BEA,bearman,haas,10.0,1.133,10.0,0.0,5.0,10.0,Finished,0
+2026,2,Chinese Grand Prix,Shanghai,GAS,gasly,alpine,7.0,0.809,7.0,0.0,6.0,8.0,Finished,0
+2026,2,Chinese Grand Prix,Shanghai,LAW,lawson,rb,14.0,1.701,14.0,0.0,7.0,6.0,Finished,0
+2026,2,Chinese Grand Prix,Shanghai,HAD,hadjar,red_bull,9.0,1.057,9.0,0.0,8.0,4.0,Finished,0
+2026,2,Chinese Grand Prix,Shanghai,SAI,sainz,williams,17.0,2.253,17.0,0.0,9.0,2.0,Lapped,0
+2026,2,Chinese Grand Prix,Shanghai,COL,colapinto,alpine,12.0,1.293,12.0,0.0,10.0,1.0,Lapped,0
+2026,2,Chinese Grand Prix,Shanghai,HUL,hulkenberg,audi,11.0,1.29,11.0,0.0,11.0,0.0,Lapped,0
+2026,2,Chinese Grand Prix,Shanghai,LIN,arvid_lindblad,rb,15.0,1.72,15.0,0.0,12.0,0.0,Lapped,0
+2026,2,Chinese Grand Prix,Shanghai,BOT,bottas,cadillac,20.0,3.372,19.0,-1.0,13.0,0.0,Lapped,0
+2026,2,Chinese Grand Prix,Shanghai,OCO,ocon,haas,13.0,1.474,13.0,0.0,14.0,0.0,Lapped,0
+2026,2,Chinese Grand Prix,Shanghai,PER,perez,cadillac,22.0,4.842,21.0,-1.0,15.0,0.0,Lapped,0
+2026,2,Chinese Grand Prix,Shanghai,VER,max_verstappen,red_bull,8.0,0.938,8.0,0.0,,0.0,Retired,0
+2026,2,Chinese Grand Prix,Shanghai,ALO,alonso,aston_martin,19.0,3.139,18.0,-1.0,,0.0,Retired,0
+2026,2,Chinese Grand Prix,Shanghai,STR,stroll,aston_martin,21.0,3.931,20.0,-1.0,,0.0,Retired,0
+2026,2,Chinese Grand Prix,Shanghai,PIA,piastri,mclaren,5.0,0.486,5.0,0.0,,0.0,Did not start,0
+2026,2,Chinese Grand Prix,Shanghai,NOR,norris,mclaren,6.0,0.544,6.0,0.0,,0.0,Did not start,0
+2026,2,Chinese Grand Prix,Shanghai,BOR,bortoleto,audi,16.0,1.485,16.0,0.0,,0.0,Did not start,0
+2026,2,Chinese Grand Prix,Shanghai,ALB,albon,williams,18.0,2.708,22.0,4.0,,0.0,Did not start,0
+2026,3,Japanese Grand Prix,Suzuka,ANT,antonelli,mercedes,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,3,Japanese Grand Prix,Suzuka,PIA,piastri,mclaren,3.0,0.354,3.0,0.0,2.0,18.0,Finished,1
+2026,3,Japanese Grand Prix,Suzuka,LEC,leclerc,ferrari,4.0,0.525,4.0,0.0,3.0,15.0,Finished,1
+2026,3,Japanese Grand Prix,Suzuka,RUS,russell,mercedes,2.0,0.298,2.0,0.0,4.0,12.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,NOR,norris,mclaren,5.0,0.631,5.0,0.0,5.0,10.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,HAM,hamilton,ferrari,6.0,0.789,6.0,0.0,6.0,8.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,GAS,gasly,alpine,7.0,0.913,7.0,0.0,7.0,6.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,VER,max_verstappen,red_bull,11.0,1.484,11.0,0.0,8.0,4.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,LAW,lawson,rb,14.0,1.717,14.0,0.0,9.0,2.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,OCO,ocon,haas,12.0,1.531,12.0,0.0,10.0,1.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,HUL,hulkenberg,audi,13.0,1.58,13.0,0.0,11.0,0.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,HAD,hadjar,red_bull,8.0,1.2,8.0,0.0,12.0,0.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,BOR,bortoleto,audi,9.0,1.212,9.0,0.0,13.0,0.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,LIN,arvid_lindblad,rb,10.0,1.331,10.0,0.0,14.0,0.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,SAI,sainz,williams,16.0,2.149,16.0,0.0,15.0,0.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,COL,colapinto,alpine,15.0,1.849,15.0,0.0,16.0,0.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,PER,perez,cadillac,19.0,3.428,19.0,0.0,17.0,0.0,Finished,0
+2026,3,Japanese Grand Prix,Suzuka,ALO,alonso,aston_martin,21.0,3.868,21.0,0.0,18.0,0.0,Lapped,0
+2026,3,Japanese Grand Prix,Suzuka,BOT,bottas,cadillac,20.0,3.552,20.0,0.0,19.0,0.0,Lapped,0
+2026,3,Japanese Grand Prix,Suzuka,ALB,albon,williams,17.0,2.31,17.0,0.0,20.0,0.0,Lapped,0
+2026,3,Japanese Grand Prix,Suzuka,STR,stroll,aston_martin,22.0,4.142,22.0,0.0,,0.0,Retired,0
+2026,3,Japanese Grand Prix,Suzuka,BEA,bearman,haas,18.0,2.312,18.0,0.0,,0.0,Retired,0
+2026,4,Miami Grand Prix,Miami Gardens,ANT,antonelli,mercedes,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,4,Miami Grand Prix,Miami Gardens,NOR,norris,mclaren,4.0,0.385,4.0,0.0,2.0,18.0,Finished,1
+2026,4,Miami Grand Prix,Miami Gardens,PIA,piastri,mclaren,7.0,0.534,7.0,0.0,3.0,15.0,Finished,1
+2026,4,Miami Grand Prix,Miami Gardens,RUS,russell,mercedes,5.0,0.399,5.0,0.0,4.0,12.0,Finished,0
+2026,4,Miami Grand Prix,Miami Gardens,VER,max_verstappen,red_bull,2.0,0.166,2.0,0.0,5.0,10.0,Finished,0
+2026,4,Miami Grand Prix,Miami Gardens,HAM,hamilton,ferrari,6.0,0.521,6.0,0.0,6.0,8.0,Finished,0
+2026,4,Miami Grand Prix,Miami Gardens,COL,colapinto,alpine,8.0,0.964,8.0,0.0,7.0,6.0,Finished,0
+2026,4,Miami Grand Prix,Miami Gardens,LEC,leclerc,ferrari,3.0,0.345,3.0,0.0,8.0,4.0,Finished,0
+2026,4,Miami Grand Prix,Miami Gardens,SAI,sainz,williams,13.0,1.742,13.0,0.0,9.0,2.0,Finished,0
+2026,4,Miami Grand Prix,Miami Gardens,ALB,albon,williams,15.0,1.922,15.0,0.0,10.0,1.0,Finished,0
+2026,4,Miami Grand Prix,Miami Gardens,BEA,bearman,haas,12.0,1.542,12.0,0.0,11.0,0.0,Lapped,0
+2026,4,Miami Grand Prix,Miami Gardens,BOR,bortoleto,audi,21.0,5.939,21.0,0.0,12.0,0.0,Lapped,0
+2026,4,Miami Grand Prix,Miami Gardens,OCO,ocon,haas,14.0,1.974,14.0,0.0,13.0,0.0,Lapped,0
+2026,4,Miami Grand Prix,Miami Gardens,LIN,arvid_lindblad,rb,16.0,2.335,16.0,0.0,14.0,0.0,Lapped,0
+2026,4,Miami Grand Prix,Miami Gardens,ALO,alonso,aston_martin,17.0,3.3,17.0,0.0,15.0,0.0,Lapped,0
+2026,4,Miami Grand Prix,Miami Gardens,PER,perez,cadillac,20.0,4.169,20.0,0.0,16.0,0.0,Lapped,0
+2026,4,Miami Grand Prix,Miami Gardens,STR,stroll,aston_martin,18.0,3.366,18.0,0.0,17.0,0.0,Lapped,0
+2026,4,Miami Grand Prix,Miami Gardens,BOT,bottas,cadillac,19.0,3.831,19.0,0.0,18.0,0.0,Lapped,0
+2026,4,Miami Grand Prix,Miami Gardens,HUL,hulkenberg,audi,10.0,1.641,10.0,0.0,,0.0,Retired,0
+2026,4,Miami Grand Prix,Miami Gardens,LAW,lawson,rb,11.0,1.701,11.0,0.0,,0.0,Retired,0
+2026,4,Miami Grand Prix,Miami Gardens,GAS,gasly,alpine,9.0,1.012,9.0,0.0,,0.0,Retired,0
+2026,4,Miami Grand Prix,Miami Gardens,HAD,hadjar,red_bull,22.0,,22.0,0.0,,0.0,Retired,0
+2026,5,Canadian Grand Prix,Montréal,ANT,antonelli,mercedes,2.0,0.068,2.0,0.0,1.0,25.0,Finished,1
+2026,5,Canadian Grand Prix,Montréal,HAM,hamilton,ferrari,5.0,0.29,5.0,0.0,2.0,18.0,Finished,1
+2026,5,Canadian Grand Prix,Montréal,VER,max_verstappen,red_bull,6.0,0.329,6.0,0.0,3.0,15.0,Finished,1
+2026,5,Canadian Grand Prix,Montréal,LEC,leclerc,ferrari,8.0,0.398,8.0,0.0,4.0,12.0,Finished,0
+2026,5,Canadian Grand Prix,Montréal,HAD,hadjar,red_bull,7.0,0.357,7.0,0.0,5.0,10.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,COL,colapinto,alpine,10.0,1.119,10.0,0.0,6.0,8.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,LAW,lawson,rb,12.0,1.319,12.0,0.0,7.0,6.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,GAS,gasly,alpine,14.0,1.609,14.0,0.0,8.0,4.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,SAI,sainz,williams,15.0,1.695,15.0,0.0,9.0,2.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,BEA,bearman,haas,16.0,1.838,16.0,0.0,10.0,1.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,PIA,piastri,mclaren,4.0,0.203,4.0,0.0,11.0,0.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,HUL,hulkenberg,audi,11.0,1.308,11.0,0.0,12.0,0.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,BOR,bortoleto,audi,13.0,1.493,13.0,0.0,13.0,0.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,OCO,ocon,haas,17.0,2.267,17.0,0.0,14.0,0.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,STR,stroll,aston_martin,21.0,3.617,22.0,1.0,15.0,0.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,BOT,bottas,cadillac,22.0,3.694,21.0,-1.0,16.0,0.0,Lapped,0
+2026,5,Canadian Grand Prix,Montréal,PER,perez,cadillac,20.0,2.851,20.0,0.0,,0.0,Retired,0
+2026,5,Canadian Grand Prix,Montréal,NOR,norris,mclaren,3.0,0.151,3.0,0.0,,0.0,Retired,0
+2026,5,Canadian Grand Prix,Montréal,RUS,russell,mercedes,1.0,0.0,1.0,0.0,,0.0,Retired,0
+2026,5,Canadian Grand Prix,Montréal,ALO,alonso,aston_martin,19.0,2.618,19.0,0.0,,0.0,Retired,0
+2026,5,Canadian Grand Prix,Montréal,ALB,albon,williams,18.0,2.273,18.0,0.0,,0.0,Retired,0
+2026,5,Canadian Grand Prix,Montréal,LIN,arvid_lindblad,rb,9.0,0.702,9.0,0.0,,0.0,Did not start,0
+2026,6,Monaco Grand Prix,Monte Carlo,ANT,antonelli,mercedes,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,6,Monaco Grand Prix,Monte Carlo,HAM,hamilton,ferrari,3.0,0.228,3.0,0.0,2.0,18.0,Finished,1
+2026,6,Monaco Grand Prix,Monte Carlo,HAD,hadjar,red_bull,5.0,0.383,5.0,0.0,3.0,15.0,Finished,1
+2026,6,Monaco Grand Prix,Monte Carlo,PIA,piastri,mclaren,7.0,0.573,7.0,0.0,4.0,12.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,LAW,lawson,rb,10.0,1.361,10.0,0.0,5.0,10.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,LIN,arvid_lindblad,rb,15.0,2.197,15.0,0.0,6.0,8.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,GAS,gasly,alpine,9.0,1.175,9.0,0.0,7.0,6.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,ALB,albon,williams,11.0,1.736,11.0,0.0,8.0,4.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,OCO,ocon,haas,17.0,2.671,17.0,0.0,9.0,2.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,ALO,alonso,aston_martin,21.0,3.298,21.0,0.0,10.0,1.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,BOR,bortoleto,audi,16.0,2.632,16.0,0.0,11.0,0.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,RUS,russell,mercedes,6.0,0.394,6.0,0.0,12.0,0.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,HUL,hulkenberg,audi,13.0,1.851,13.0,0.0,13.0,0.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,COL,colapinto,alpine,14.0,1.944,14.0,0.0,14.0,0.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,PER,perez,cadillac,18.0,2.696,18.0,0.0,15.0,0.0,Finished,0
+2026,6,Monaco Grand Prix,Monte Carlo,SAI,sainz,williams,12.0,1.764,12.0,0.0,16.0,0.0,Retired,0
+2026,6,Monaco Grand Prix,Monte Carlo,LEC,leclerc,ferrari,4.0,0.3,4.0,0.0,,0.0,Retired,0
+2026,6,Monaco Grand Prix,Monte Carlo,STR,stroll,aston_martin,22.0,4.01,22.0,0.0,,0.0,Retired,0
+2026,6,Monaco Grand Prix,Monte Carlo,NOR,norris,mclaren,8.0,0.714,8.0,0.0,,0.0,Retired,0
+2026,6,Monaco Grand Prix,Monte Carlo,BEA,bearman,haas,19.0,2.763,19.0,0.0,,0.0,Retired,0
+2026,6,Monaco Grand Prix,Monte Carlo,BOT,bottas,cadillac,20.0,3.232,20.0,0.0,,0.0,Retired,0
+2026,6,Monaco Grand Prix,Monte Carlo,VER,max_verstappen,red_bull,2.0,0.043,2.0,0.0,,0.0,Retired,0
+2026,7,Barcelona Grand Prix,Barcelona,HAM,hamilton,ferrari,2.0,0.064,2.0,0.0,1.0,25.0,Finished,1
+2026,7,Barcelona Grand Prix,Barcelona,RUS,russell,mercedes,1.0,0.0,1.0,0.0,2.0,18.0,Finished,1
+2026,7,Barcelona Grand Prix,Barcelona,NOR,norris,mclaren,4.0,0.322,4.0,0.0,3.0,15.0,Finished,1
+2026,7,Barcelona Grand Prix,Barcelona,VER,max_verstappen,red_bull,5.0,0.342,5.0,0.0,4.0,12.0,Finished,0
+2026,7,Barcelona Grand Prix,Barcelona,PIA,piastri,mclaren,7.0,0.411,7.0,0.0,5.0,10.0,Finished,0
+2026,7,Barcelona Grand Prix,Barcelona,HAD,hadjar,red_bull,6.0,0.398,6.0,0.0,6.0,8.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,GAS,gasly,alpine,14.0,1.582,14.0,0.0,7.0,6.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,LAW,lawson,rb,8.0,0.906,8.0,0.0,8.0,4.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,LIN,arvid_lindblad,rb,11.0,1.161,11.0,0.0,9.0,2.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,COL,colapinto,alpine,13.0,1.512,13.0,0.0,10.0,1.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,BOR,bortoleto,audi,12.0,1.322,12.0,0.0,11.0,0.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,SAI,sainz,williams,16.0,2.202,16.0,0.0,12.0,0.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,OCO,ocon,haas,17.0,2.394,17.0,0.0,13.0,0.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,PER,perez,cadillac,19.0,2.866,19.0,0.0,14.0,0.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,LEC,leclerc,ferrari,10.0,0.602,10.0,0.0,15.0,0.0,Retired,0
+2026,7,Barcelona Grand Prix,Barcelona,ANT,antonelli,mercedes,3.0,0.319,3.0,0.0,16.0,0.0,Retired,0
+2026,7,Barcelona Grand Prix,Barcelona,BEA,bearman,haas,15.0,1.71,15.0,0.0,17.0,0.0,Retired,0
+2026,7,Barcelona Grand Prix,Barcelona,ALB,albon,williams,18.0,2.745,18.0,0.0,,0.0,Lapped,0
+2026,7,Barcelona Grand Prix,Barcelona,ALO,alonso,aston_martin,22.0,4.136,22.0,0.0,,0.0,Retired,0
+2026,7,Barcelona Grand Prix,Barcelona,HUL,hulkenberg,audi,9.0,1.089,9.0,0.0,,0.0,Retired,0
+2026,7,Barcelona Grand Prix,Barcelona,BOT,bottas,cadillac,20.0,3.078,20.0,0.0,,0.0,Retired,0
+2026,7,Barcelona Grand Prix,Barcelona,STR,stroll,aston_martin,21.0,4.079,21.0,0.0,,0.0,Retired,0
+2026,8,Austrian Grand Prix,Spielberg,RUS,russell,mercedes,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,8,Austrian Grand Prix,Spielberg,VER,max_verstappen,red_bull,5.0,0.362,5.0,0.0,2.0,18.0,Finished,1
+2026,8,Austrian Grand Prix,Spielberg,ANT,antonelli,mercedes,4.0,0.301,4.0,0.0,3.0,15.0,Finished,1
+2026,8,Austrian Grand Prix,Spielberg,PIA,piastri,mclaren,7.0,0.398,7.0,0.0,4.0,12.0,Finished,0
+2026,8,Austrian Grand Prix,Spielberg,HAM,hamilton,ferrari,3.0,0.295,3.0,0.0,5.0,10.0,Finished,0
+2026,8,Austrian Grand Prix,Spielberg,HAD,hadjar,red_bull,8.0,0.519,8.0,0.0,6.0,8.0,Finished,0
+2026,8,Austrian Grand Prix,Spielberg,NOR,norris,mclaren,6.0,0.389,6.0,0.0,7.0,6.0,Finished,0
+2026,8,Austrian Grand Prix,Spielberg,LEC,leclerc,ferrari,2.0,0.236,2.0,0.0,8.0,4.0,Finished,0
+2026,8,Austrian Grand Prix,Spielberg,LAW,lawson,rb,9.0,0.842,9.0,0.0,9.0,2.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,LIN,arvid_lindblad,rb,10.0,0.894,10.0,0.0,10.0,1.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,BOR,bortoleto,audi,12.0,1.18,12.0,0.0,11.0,0.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,HUL,hulkenberg,audi,14.0,1.498,14.0,0.0,12.0,0.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,GAS,gasly,alpine,11.0,1.11,11.0,0.0,13.0,0.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,BEA,bearman,haas,13.0,1.41,13.0,0.0,14.0,0.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,COL,colapinto,alpine,16.0,1.781,16.0,0.0,15.0,0.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,OCO,ocon,haas,15.0,1.704,15.0,0.0,16.0,0.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,ALB,albon,williams,18.0,2.396,18.0,0.0,17.0,0.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,ALO,alonso,aston_martin,21.0,3.829,21.0,0.0,18.0,0.0,Lapped,0
+2026,8,Austrian Grand Prix,Spielberg,STR,stroll,aston_martin,22.0,4.25,22.0,0.0,,0.0,Retired,0
+2026,8,Austrian Grand Prix,Spielberg,SAI,sainz,williams,17.0,2.139,17.0,0.0,,0.0,Retired,0
+2026,8,Austrian Grand Prix,Spielberg,PER,perez,cadillac,19.0,2.832,19.0,0.0,,0.0,Retired,0
+2026,8,Austrian Grand Prix,Spielberg,BOT,bottas,cadillac,20.0,2.917,20.0,0.0,,0.0,Retired,0
+2026,9,British Grand Prix,Silverstone,LEC,leclerc,ferrari,2.0,0.175,2.0,0.0,1.0,25.0,Finished,1
+2026,9,British Grand Prix,Silverstone,RUS,russell,mercedes,4.0,0.37,4.0,0.0,2.0,18.0,Finished,1
+2026,9,British Grand Prix,Silverstone,HAM,hamilton,ferrari,3.0,0.347,3.0,0.0,3.0,15.0,Finished,1
+2026,9,British Grand Prix,Silverstone,NOR,norris,mclaren,6.0,0.766,6.0,0.0,4.0,12.0,Finished,0
+2026,9,British Grand Prix,Silverstone,HAD,hadjar,red_bull,5.0,0.635,5.0,0.0,5.0,10.0,Finished,0
+2026,9,British Grand Prix,Silverstone,LAW,lawson,rb,10.0,1.189,10.0,0.0,6.0,8.0,Finished,0
+2026,9,British Grand Prix,Silverstone,LIN,arvid_lindblad,rb,9.0,1.194,9.0,0.0,7.0,6.0,Finished,0
+2026,9,British Grand Prix,Silverstone,BOR,bortoleto,audi,11.0,1.35,11.0,0.0,8.0,4.0,Finished,0
+2026,9,British Grand Prix,Silverstone,COL,colapinto,alpine,19.0,3.21,19.0,0.0,9.0,2.0,Finished,0
+2026,9,British Grand Prix,Silverstone,GAS,gasly,alpine,12.0,1.952,15.0,3.0,10.0,1.0,Finished,0
+2026,9,British Grand Prix,Silverstone,PIA,piastri,mclaren,8.0,0.921,8.0,0.0,11.0,0.0,Finished,0
+2026,9,British Grand Prix,Silverstone,BEA,bearman,haas,14.0,2.39,13.0,-1.0,12.0,0.0,Finished,0
+2026,9,British Grand Prix,Silverstone,OCO,ocon,haas,17.0,2.569,17.0,0.0,13.0,0.0,Finished,0
+2026,9,British Grand Prix,Silverstone,PER,perez,cadillac,20.0,3.34,20.0,0.0,14.0,0.0,Finished,0
+2026,9,British Grand Prix,Silverstone,ANT,antonelli,mercedes,1.0,0.0,1.0,0.0,15.0,0.0,Finished,0
+2026,9,British Grand Prix,Silverstone,BOT,bottas,cadillac,18.0,3.116,18.0,0.0,16.0,0.0,Finished,0
+2026,9,British Grand Prix,Silverstone,SAI,sainz,williams,15.0,2.451,14.0,-1.0,17.0,0.0,Lapped,0
+2026,9,British Grand Prix,Silverstone,ALO,alonso,aston_martin,22.0,4.914,21.0,-1.0,18.0,0.0,Lapped,0
+2026,9,British Grand Prix,Silverstone,STR,stroll,aston_martin,21.0,4.752,22.0,1.0,19.0,0.0,Lapped,0
+2026,9,British Grand Prix,Silverstone,VER,max_verstappen,red_bull,7.0,0.782,7.0,0.0,20.0,0.0,Retired,0
+2026,9,British Grand Prix,Silverstone,ALB,albon,williams,16.0,2.527,16.0,0.0,,0.0,Retired,0
+2026,9,British Grand Prix,Silverstone,HUL,hulkenberg,audi,13.0,1.428,12.0,-1.0,,0.0,Retired,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,ANT,antonelli,mercedes,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,10,Belgian Grand Prix,Spa-Francorchamps,LEC,leclerc,ferrari,5.0,0.532,4.0,-1.0,2.0,18.0,Finished,1
+2026,10,Belgian Grand Prix,Spa-Francorchamps,VER,max_verstappen,red_bull,2.0,0.317,2.0,0.0,3.0,15.0,Finished,1
+2026,10,Belgian Grand Prix,Spa-Francorchamps,HAM,hamilton,ferrari,6.0,0.534,5.0,-1.0,4.0,12.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,PIA,piastri,mclaren,7.0,0.655,6.0,-1.0,5.0,10.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,HAD,hadjar,red_bull,10.0,1.462,21.0,11.0,6.0,8.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,NOR,norris,mclaren,3.0,0.44,13.0,10.0,7.0,6.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,BOR,bortoleto,audi,9.0,1.267,8.0,-1.0,8.0,4.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,LIN,arvid_lindblad,rb,8.0,0.782,7.0,-1.0,9.0,2.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,COL,colapinto,alpine,13.0,2.031,11.0,-2.0,10.0,1.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,GAS,gasly,alpine,12.0,1.97,10.0,-2.0,11.0,0.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,LAW,lawson,rb,11.0,1.759,9.0,-2.0,12.0,0.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,HUL,hulkenberg,audi,14.0,2.31,12.0,-2.0,13.0,0.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,BEA,bearman,haas,16.0,2.418,14.0,-2.0,14.0,0.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,ALB,albon,williams,17.0,2.759,15.0,-2.0,15.0,0.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,SAI,sainz,williams,15.0,2.416,19.0,4.0,16.0,0.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,OCO,ocon,haas,18.0,3.44,16.0,-2.0,17.0,0.0,Finished,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,BOT,bottas,cadillac,19.0,3.462,17.0,-2.0,18.0,0.0,Lapped,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,ALO,alonso,aston_martin,21.0,5.641,22.0,1.0,19.0,0.0,Lapped,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,STR,stroll,aston_martin,22.0,5.816,20.0,-2.0,,0.0,Retired,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,PER,perez,cadillac,20.0,3.61,18.0,-2.0,,0.0,Retired,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,RUS,russell,mercedes,4.0,0.508,3.0,-1.0,,0.0,Retired,0
+2026,11,Hungarian Grand Prix,Budapest,NOR,norris,mclaren,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,11,Hungarian Grand Prix,Budapest,VER,max_verstappen,red_bull,6.0,0.518,4.0,-2.0,2.0,18.0,Finished,1
+2026,11,Hungarian Grand Prix,Budapest,ANT,antonelli,mercedes,4.0,0.272,7.0,3.0,3.0,15.0,Finished,1
+2026,11,Hungarian Grand Prix,Budapest,LEC,leclerc,ferrari,3.0,0.238,2.0,-1.0,4.0,12.0,Finished,0
+2026,11,Hungarian Grand Prix,Budapest,HAM,hamilton,ferrari,2.0,0.012,5.0,3.0,5.0,10.0,Finished,0
+2026,11,Hungarian Grand Prix,Budapest,HAD,hadjar,red_bull,8.0,0.649,8.0,0.0,6.0,8.0,Finished,0
+2026,11,Hungarian Grand Prix,Budapest,RUS,russell,mercedes,7.0,0.553,6.0,-1.0,7.0,6.0,Finished,0
+2026,11,Hungarian Grand Prix,Budapest,LAW,lawson,rb,11.0,1.558,11.0,0.0,8.0,4.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,HUL,hulkenberg,audi,10.0,1.432,10.0,0.0,9.0,2.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,LIN,arvid_lindblad,rb,9.0,1.074,9.0,0.0,10.0,1.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,BOR,bortoleto,audi,14.0,1.862,14.0,0.0,11.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,GAS,gasly,alpine,12.0,1.637,12.0,0.0,12.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,STR,stroll,aston_martin,20.0,3.452,20.0,0.0,13.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,ALO,alonso,aston_martin,16.0,2.601,16.0,0.0,14.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,COL,colapinto,alpine,13.0,1.82,13.0,0.0,15.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,OCO,ocon,haas,15.0,2.527,15.0,0.0,16.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,ALB,albon,williams,19.0,3.451,19.0,0.0,17.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,SAI,sainz,williams,18.0,3.414,18.0,0.0,18.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,BEA,bearman,haas,17.0,3.026,17.0,0.0,19.0,0.0,Lapped,0
+2026,11,Hungarian Grand Prix,Budapest,PIA,piastri,mclaren,5.0,0.477,3.0,-2.0,,0.0,Retired,0
+2026,11,Hungarian Grand Prix,Budapest,PER,perez,cadillac,22.0,4.115,22.0,0.0,,0.0,Retired,0
+2026,11,Hungarian Grand Prix,Budapest,BOT,bottas,cadillac,21.0,3.679,21.0,0.0,,0.0,Retired,0
+2026,12,Dutch Grand Prix,Zandvoort,NOR,norris,mclaren,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,12,Dutch Grand Prix,Zandvoort,ANT,antonelli,mercedes,3.0,0.133,3.0,0.0,2.0,18.0,Finished,1
+2026,12,Dutch Grand Prix,Zandvoort,RUS,russell,mercedes,2.0,0.102,2.0,0.0,3.0,15.0,Finished,1
+2026,12,Dutch Grand Prix,Zandvoort,HAM,hamilton,ferrari,5.0,0.331,5.0,0.0,4.0,12.0,Finished,0
+2026,12,Dutch Grand Prix,Zandvoort,LEC,leclerc,ferrari,6.0,0.395,6.0,0.0,5.0,10.0,Finished,0
+2026,12,Dutch Grand Prix,Zandvoort,PIA,piastri,mclaren,4.0,0.142,4.0,0.0,6.0,8.0,Finished,0
+2026,12,Dutch Grand Prix,Zandvoort,LAW,lawson,red_bull,8.0,0.57,8.0,0.0,7.0,6.0,Finished,0
+2026,12,Dutch Grand Prix,Zandvoort,HUL,hulkenberg,audi,13.0,1.634,13.0,0.0,8.0,4.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,ALO,alonso,aston_martin,18.0,2.487,18.0,0.0,9.0,2.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,GAS,gasly,alpine,11.0,1.453,11.0,0.0,10.0,1.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,TSU,tsunoda,rb,12.0,1.464,12.0,0.0,11.0,0.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,LIN,arvid_lindblad,rb,10.0,1.022,10.0,0.0,12.0,0.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,BOR,bortoleto,audi,9.0,0.916,9.0,0.0,13.0,0.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,COL,colapinto,alpine,14.0,1.637,14.0,0.0,14.0,0.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,PER,perez,cadillac,22.0,3.437,22.0,0.0,15.0,0.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,SAI,sainz,williams,17.0,2.411,17.0,0.0,16.0,0.0,Lapped,0
+2026,12,Dutch Grand Prix,Zandvoort,ALB,albon,williams,16.0,2.019,16.0,0.0,17.0,0.0,Retired,0
+2026,12,Dutch Grand Prix,Zandvoort,BOT,bottas,cadillac,21.0,3.208,21.0,0.0,,0.0,Retired,0
+2026,12,Dutch Grand Prix,Zandvoort,OCO,ocon,haas,15.0,1.974,15.0,0.0,,0.0,Retired,0
+2026,12,Dutch Grand Prix,Zandvoort,STR,stroll,aston_martin,19.0,2.655,19.0,0.0,,0.0,Retired,0
+2026,12,Dutch Grand Prix,Zandvoort,BEA,bearman,haas,20.0,2.663,20.0,0.0,,0.0,Retired,0
+2026,12,Dutch Grand Prix,Zandvoort,VER,max_verstappen,red_bull,7.0,0.455,7.0,0.0,,0.0,Retired,0
+2026,13,Italian Grand Prix,Monza,ANT,antonelli,mercedes,7.0,0.096,19.0,12.0,1.0,25.0,Finished,1
+2026,13,Italian Grand Prix,Monza,RUS,russell,mercedes,2.0,0.06,2.0,0.0,2.0,18.0,Finished,1
+2026,13,Italian Grand Prix,Monza,VER,max_verstappen,red_bull,6.0,0.284,5.0,-1.0,3.0,15.0,Finished,1
+2026,13,Italian Grand Prix,Monza,NOR,norris,mclaren,9.0,0.281,8.0,-1.0,4.0,12.0,Finished,0
+2026,13,Italian Grand Prix,Monza,PIA,piastri,mclaren,3.0,0.18,6.0,3.0,5.0,10.0,Finished,0
+2026,13,Italian Grand Prix,Monza,HAM,hamilton,ferrari,5.0,0.225,4.0,-1.0,6.0,8.0,Finished,0
+2026,13,Italian Grand Prix,Monza,GAS,gasly,alpine,1.0,0.0,1.0,0.0,7.0,6.0,Finished,0
+2026,13,Italian Grand Prix,Monza,LIN,arvid_lindblad,rb,10.0,0.5,9.0,-1.0,8.0,4.0,Finished,0
+2026,13,Italian Grand Prix,Monza,COL,colapinto,alpine,8.0,0.434,7.0,-1.0,9.0,2.0,Finished,0
+2026,13,Italian Grand Prix,Monza,TSU,tsunoda,rb,17.0,1.969,15.0,-2.0,10.0,1.0,Finished,0
+2026,13,Italian Grand Prix,Monza,BOR,bortoleto,audi,11.0,0.731,10.0,-1.0,11.0,0.0,Finished,0
+2026,13,Italian Grand Prix,Monza,HUL,hulkenberg,audi,13.0,0.993,12.0,-1.0,12.0,0.0,Finished,0
+2026,13,Italian Grand Prix,Monza,SAI,sainz,williams,15.0,1.667,13.0,-2.0,13.0,0.0,Finished,0
+2026,13,Italian Grand Prix,Monza,LAW,lawson,red_bull,14.0,1.035,22.0,8.0,14.0,0.0,Finished,0
+2026,13,Italian Grand Prix,Monza,BEA,bearman,haas,12.0,0.97,11.0,-1.0,15.0,0.0,Finished,0
+2026,13,Italian Grand Prix,Monza,OCO,ocon,haas,16.0,1.668,14.0,-2.0,16.0,0.0,Lapped,0
+2026,13,Italian Grand Prix,Monza,ALB,albon,williams,18.0,2.57,20.0,2.0,17.0,0.0,Lapped,0
+2026,13,Italian Grand Prix,Monza,PER,perez,cadillac,20.0,2.809,17.0,-3.0,18.0,0.0,Lapped,0
+2026,13,Italian Grand Prix,Monza,BOT,bottas,cadillac,19.0,2.578,16.0,-3.0,19.0,0.0,Lapped,0
+2026,13,Italian Grand Prix,Monza,STR,stroll,aston_martin,22.0,3.436,18.0,-4.0,,0.0,Retired,0
+2026,13,Italian Grand Prix,Monza,ALO,alonso,aston_martin,21.0,3.364,21.0,0.0,,0.0,Retired,0
+2026,13,Italian Grand Prix,Monza,LEC,leclerc,ferrari,4.0,0.218,3.0,-1.0,,0.0,Retired,0
+2026,14,Spanish Grand Prix,Madrid,ANT,antonelli,mercedes,2.0,0.011,2.0,0.0,1.0,25.0,Finished,1
+2026,14,Spanish Grand Prix,Madrid,VER,max_verstappen,red_bull,3.0,0.14,3.0,0.0,2.0,18.0,Finished,1
+2026,14,Spanish Grand Prix,Madrid,NOR,norris,mclaren,1.0,0.0,1.0,0.0,3.0,15.0,Finished,1
+2026,14,Spanish Grand Prix,Madrid,LEC,leclerc,ferrari,5.0,0.195,5.0,0.0,4.0,12.0,Finished,0
+2026,14,Spanish Grand Prix,Madrid,RUS,russell,mercedes,6.0,0.325,6.0,0.0,5.0,10.0,Finished,0
+2026,14,Spanish Grand Prix,Madrid,LAW,lawson,red_bull,8.0,0.492,8.0,0.0,6.0,8.0,Finished,0
+2026,14,Spanish Grand Prix,Madrid,COL,colapinto,alpine,9.0,1.079,9.0,0.0,7.0,6.0,Finished,0
+2026,14,Spanish Grand Prix,Madrid,PIA,piastri,mclaren,7.0,0.47,7.0,0.0,8.0,4.0,Finished,0
+2026,14,Spanish Grand Prix,Madrid,LIN,arvid_lindblad,rb,10.0,1.217,10.0,0.0,9.0,2.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,HUL,hulkenberg,audi,11.0,1.399,11.0,0.0,10.0,1.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,OCO,ocon,haas,13.0,1.843,13.0,0.0,11.0,0.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,GAS,gasly,alpine,14.0,1.929,14.0,0.0,12.0,0.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,BOR,bortoleto,audi,12.0,1.564,12.0,0.0,13.0,0.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,TSU,tsunoda,rb,15.0,2.26,15.0,0.0,14.0,0.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,ALB,albon,williams,16.0,3.483,16.0,0.0,15.0,0.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,ALO,alonso,aston_martin,18.0,3.564,17.0,-1.0,17.0,0.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,BOT,bottas,cadillac,20.0,6.187,19.0,-1.0,18.0,0.0,Lapped,0
+2026,14,Spanish Grand Prix,Madrid,SAI,sainz,williams,17.0,3.488,20.0,3.0,,0.0,Retired,0
+2026,14,Spanish Grand Prix,Madrid,PER,perez,cadillac,19.0,4.089,18.0,-1.0,,0.0,Retired,0
+2026,14,Spanish Grand Prix,Madrid,HAM,hamilton,ferrari,4.0,0.189,4.0,0.0,,0.0,Retired,0
