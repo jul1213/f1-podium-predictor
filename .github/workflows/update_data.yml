@@ -22,6 +22,8 @@ jobs:
         with:
           path: f1_cache
           key: f1-cache-v1
+      - name: Ensure cache dir exists
+        run: mkdir -p f1_cache
       - name: Install dependencies
         run: |
           pip install -r app/requirements.txt
