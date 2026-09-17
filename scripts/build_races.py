@@ -1,7 +1,7 @@
 import fastf1
 import pandas as pd
 import time
-import datetime
+from datetime import datetime
 import os
 from pipeline_common import log_failure, get_done_set, append_race, load_with_retry
 
