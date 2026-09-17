@@ -1,1 +1,52 @@
-link: f1-podium-predictor-eaoqlmyyjtnmg2fgw7ggw3.streamlit.app
+# F1 Podium Prediction
+
+[Explore Model](f1-podium-predictor-eaoqlmyyjtnmg2fgw7ggw3.streamlit.app)
+
+Predicts which 3 drivers will finish on the podium in a given race, using only information available before the race starts.
+
+The model is trained on 2018-2023 data and evaluated on held-out 2024-2025 test set. A GitHub Actions pipeline then automatically pulls new race data and generates prediction for 2026+ races as they become available.
+
+## Overview
+- Data: pulled via the `fastf1` api, 2018-present
+- Model: Random Forest Classifier (scikit-learn)
+- Methodology: trained on 2018-2023, evaluated on held-out 2024-2025 test set. Only information available before the race is used as a feature.
+- Built iteratively across 3 versions, each adding richer features
+
+## Results
+*Metrics are calculated on held-out 2024-2025 test set.*
+
+| Version | Features | F1 | ROC-AUC | Top-3 Race Accuracy |
+|---|---|---|---|---|
+| V1 | Grid position, penalty | 0.708 | 0.919 | 0.708 |
+| V2 | + standings, form, sprint data | 0.703 | 0.944 | 0.695 |
+| V3 | + track volatility | 0.712 | 0.944 | 0.730 |
+
+2026+ predictions are generated separately as new races become available, and so are not included in the reported evaluation
+
+## Approach
+The problem is framed as a binary classification task: whether a driver finishes on the podium or not. The final prediction is then made by selecting the three drivers with the highest predicted podium probability for each race.
+
+I chose this rather than predicting the exact finishing position because the main goal of the project is to identify the 3 podium finishers, rather than predicting full finishing order.
+
+## Key Findings
+- **ROC-AUC and race-level accuracy don't always move together.** V2's richer features improved the model's overall ranking ability, but not top-3 race accuracy. This suggests the features helped rank drivers from podium likelihood, without necessarily improving the exact top 3 picks.
+- **Hyperparameter tuning only made very small improvements.** Across all 3 models, hyperparameter tuning moved F1 by roughly 1-2 points at most. Extending the search grid also produced similarly small changes, suggesting that further hyperparameter tuning wasn't substantially changing the model's performance.
+- **Track context improved race-level accuracy.** V3's 'TrackVolatility' feature improved top-3 race accuracy (from 0.695 to 0.730), which suggests circuit-specific information was useful for identifying the three podium finishers. A second idea to add the race's round number within the season was tested but found to hurt performance, so was dropped.
+
+## Automated Data Pipeline
+GitHub Actions runs the pipeline weekly to:
+- fetch new race / sprint data
+- update features dataset
+- generate predictions
+- commit updated dataset to repo
+
+## Future Improvements
+- experiment with treating DNFs/retirements differently in recent-form features rather than excluding them when calculating recent finish positions
+- experiment with ranking-based models that directly predict the relative likelihood of drivers finishing ahead of one another
+- experiment with predicting using only pre-qualifying information (practice sessions, historical data) to make predictions available earlier in race weekend
+
+## Project Structure
+- `scripts/` - data pipeline
+- `models/` - training / evaluation scripts per version
+- `app/` - streamlit app
+- `.github/workflows/` - automated weekly data refresh
