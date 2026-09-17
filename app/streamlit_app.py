@@ -4,7 +4,7 @@ import pandas as pd
 st.set_page_config(page_title="F1 Podium Predictor", layout="wide")
 
 st.title("F1 Podium Prediction", anchor=False)
-st.caption("This model predicts which 3 drivers will finish on the podium in a given race, using only information **before** the race starts!")
+st.caption("This model predicts which 3 drivers will finish on the podium in a given race, using only information available *before* the race starts!")
 with st.expander("Read more!", type='compact'):
     st.markdown('''
         **Features used in the final model:**
@@ -15,6 +15,7 @@ with st.expander("Read more!", type='compact'):
         - sprint race results - if sprint weekend
         - track volatility - by looking at how often the top-3 grid starters have historically held their place
 
+        **Live updates:** This model also generates prediction for new races automatically, via a weekly pipeline - but these 2026+ predictions are separate from the model's official evaluation, which remains locked on the 2024-2025 test set.
 
         **Model:** Random Forest Classifier, trained on 2018-2023 seasons, and evaluated on held-out 2024-2025 unseen test set.
 
@@ -22,7 +23,7 @@ with st.expander("Read more!", type='compact'):
     ''')
 
 
-@st.cache_data
+@st.cache_data(ttl=86400)
 def load_predictions():
     return pd.read_csv("data/f1_v3_predictions.csv")
 
@@ -39,7 +40,7 @@ v1_results, v2_results, v3_results = load_results()
 # ---------- Race explorer ----------
 with st.container(border=True):
     st.header("Race Explorer", icon=":material/trophy:" ,anchor=False)
-    st.caption("Browse individual races from the 2024–2025 held-out test set.")
+    st.caption("Browse individual races from the 2024 season and onwards")
 
     test = df[df['Year'] >= 2024].copy()
 
@@ -160,7 +161,8 @@ with st.container(border=True):
 
 # ---------- Models ----------
 with st.container(border=True):
-    st.header("Model Performance", anchor=False)
+    st.header("Model Performance", anchor=False, icon=":material/analytics:")
+    st.info("Races from 2026 and onwards are not part of the model's original held-out test set, so not part of the reported test metrics")
 
     v1_final = v1_results[v1_results['model'] == 'best_rf_FINAL_TEST'].iloc[0]
     v2_final = v2_results[v2_results['model'] == 'best_rf_v2_FINAL_TEST'].iloc[0]
@@ -195,10 +197,10 @@ with st.container(border=True):
             st.markdown('''
             - **V1:** The simplest possible baseline - only features are grid position + grid penalty. Used to establish
             whether richer features would actually help + reference point for later versions.
-            - **V2:** Added championship standings, recent form, and sprint race data. These temporal features improved the model's overall ranking ability, though did not help
-            with nailing the top-3.
+            - **V2:** Added championship standings, recent form, and sprint race data. On the held-out 2024-2025 test set, these temporal features improved the model's overall ranking ability, though did not 
+            improve top-3 race accuracy.
             - **V3:** Added track volatility measuring how often top-3 grid starters have historically held their position at each circuit. This was a change that meaningfully improved top-3 
-            race accuracy specifically, rather than just overall ranking ability. A second idea - adding within the race season was tested and found to hurt performance, so was dropped.
+            race accuracy specifically, rather than just overall ranking ability.
             ''')
     with st.expander("About metrics"):
         st.markdown('''
