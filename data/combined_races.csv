@@ -3778,3 +3778,25 @@ Year,RoundNumber,EventName,Location,Abbreviation,DriverId,TeamId,QualifyingPosit
 2026,15,Azerbaijan Grand Prix,Baku,ALB,albon,williams,13.0,2.475,12.0,-1.0,,0.0,Retired,0
 2026,15,Azerbaijan Grand Prix,Baku,ALO,alonso,aston_martin,19.0,4.067,21.0,2.0,,0.0,Retired,0
 2026,15,Azerbaijan Grand Prix,Baku,STR,stroll,aston_martin,21.0,4.811,22.0,1.0,,0.0,Retired,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,VER,max_verstappen,red_bull,1.0,0.0,1.0,0.0,1.0,25.0,Finished,1
+2026,16,Bahrain Grand Prix,Kuala Lumpur,ANT,antonelli,mercedes,4.0,0.501,3.0,-1.0,2.0,18.0,Finished,1
+2026,16,Bahrain Grand Prix,Kuala Lumpur,HAM,hamilton,ferrari,2.0,0.298,2.0,0.0,3.0,15.0,Finished,1
+2026,16,Bahrain Grand Prix,Kuala Lumpur,LEC,leclerc,ferrari,5.0,0.536,4.0,-1.0,4.0,12.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,HAD,hadjar,red_bull,3.0,0.428,8.0,5.0,5.0,10.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,PIA,piastri,mclaren,7.0,0.632,6.0,-1.0,6.0,8.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,LAW,lawson,rb,11.0,1.893,11.0,0.0,7.0,6.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,ALO,alonso,aston_martin,12.0,2.09,12.0,0.0,8.0,4.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,NOR,norris,mclaren,6.0,0.627,5.0,-1.0,9.0,2.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,LIN,arvid_lindblad,rb,16.0,2.753,22.0,6.0,10.0,1.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,HUL,hulkenberg,audi,17.0,2.84,15.0,-2.0,11.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,STR,stroll,aston_martin,14.0,2.436,14.0,0.0,12.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,COL,colapinto,alpine,15.0,2.049,21.0,6.0,13.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,BEA,bearman,haas,18.0,2.85,16.0,-2.0,14.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,OCO,ocon,haas,19.0,3.103,17.0,-2.0,15.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,GAS,gasly,alpine,9.0,1.28,9.0,0.0,16.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,SAI,sainz,williams,13.0,2.397,13.0,0.0,17.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,BOR,bortoleto,audi,10.0,1.684,10.0,0.0,18.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,PER,perez,cadillac,22.0,3.803,20.0,-2.0,19.0,0.0,Finished,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,RUS,russell,mercedes,8.0,0.741,7.0,-1.0,20.0,0.0,Retired,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,ALB,albon,williams,20.0,3.47,18.0,-2.0,,0.0,Retired,0
+2026,16,Bahrain Grand Prix,Kuala Lumpur,BOT,bottas,cadillac,21.0,3.481,19.0,-2.0,,0.0,Retired,0
