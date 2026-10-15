@@ -1,6 +1,6 @@
 # F1 Podium Prediction
 
-[Explore Model](f1-podium-predictor-eaoqlmyyjtnmg2fgw7ggw3.streamlit.app)
+[Explore Model](https://f1-podium-predictor-eaoqlmyyjtnmg2fgw7ggw3.streamlit.app/)
 
 Predicts which 3 drivers will finish on the podium in a given race, using only information available before the race starts.
 
