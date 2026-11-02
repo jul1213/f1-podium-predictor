@@ -3844,3 +3844,25 @@ Year,RoundNumber,EventName,Location,Abbreviation,DriverId,TeamId,QualifyingPosit
 2026,18,United States Grand Prix,Austin,BOT,bottas,cadillac,22.0,3.488,19.0,-3.0,,0.0,Retired,0
 2026,18,United States Grand Prix,Austin,COL,colapinto,alpine,14.0,1.687,20.0,6.0,,0.0,Retired,0
 2026,18,United States Grand Prix,Austin,BEA,bearman,haas,16.0,1.996,13.0,-3.0,,0.0,Retired,0
+2026,19,Mexico City Grand Prix,Mexico City,VER,max_verstappen,red_bull,4.0,0.178,5.0,1.0,1.0,25.0,Finished,1
+2026,19,Mexico City Grand Prix,Mexico City,HAM,hamilton,ferrari,1.0,0.0,1.0,0.0,2.0,18.0,Finished,1
+2026,19,Mexico City Grand Prix,Mexico City,ANT,antonelli,mercedes,5.0,0.193,4.0,-1.0,3.0,15.0,Finished,1
+2026,19,Mexico City Grand Prix,Mexico City,LEC,leclerc,ferrari,3.0,0.119,3.0,0.0,4.0,12.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,NOR,norris,mclaren,6.0,0.214,6.0,0.0,5.0,10.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,RUS,russell,mercedes,2.0,0.009,2.0,0.0,6.0,8.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,PIA,piastri,mclaren,12.0,1.132,12.0,0.0,7.0,6.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,COL,colapinto,alpine,11.0,1.126,11.0,0.0,8.0,4.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,LAW,lawson,rb,8.0,0.515,22.0,14.0,9.0,2.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,GAS,gasly,alpine,9.0,0.639,9.0,0.0,10.0,1.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,BOR,bortoleto,audi,13.0,1.166,13.0,0.0,11.0,0.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,HAD,hadjar,red_bull,7.0,0.386,7.0,0.0,12.0,0.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,HIR,ryo_hirakawa,haas,18.0,2.444,18.0,0.0,13.0,0.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,ALB,albon,williams,16.0,2.116,16.0,0.0,14.0,0.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,SAI,sainz,williams,15.0,2.007,15.0,0.0,15.0,0.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,HUL,hulkenberg,audi,10.0,0.792,10.0,0.0,16.0,0.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,PER,perez,cadillac,20.0,2.591,20.0,0.0,17.0,0.0,Finished,0
+2026,19,Mexico City Grand Prix,Mexico City,LIN,arvid_lindblad,rb,8.0,0.603,8.0,0.0,,0.0,Retired,0
+2026,19,Mexico City Grand Prix,Mexico City,BEA,bearman,haas,14.0,1.569,14.0,0.0,,0.0,Retired,0
+2026,19,Mexico City Grand Prix,Mexico City,BOT,bottas,cadillac,21.0,3.338,21.0,0.0,,0.0,Retired,0
+2026,19,Mexico City Grand Prix,Mexico City,STR,stroll,aston_martin,19.0,2.558,19.0,0.0,,0.0,Retired,0
+2026,19,Mexico City Grand Prix,Mexico City,ALO,alonso,aston_martin,17.0,2.394,17.0,0.0,,0.0,Retired,0
