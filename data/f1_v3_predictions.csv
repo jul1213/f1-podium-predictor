@@ -216,26 +216,26 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2024,11,Austrian Grand Prix,ALO,15.0,18.0,Lapped,0,0.012657882590752947
 2024,11,Austrian Grand Prix,SAR,19.0,19.0,Lapped,0,9.664766867547157e-05
 2024,11,Austrian Grand Prix,NOR,2.0,20.0,Lapped,0,0.5737065987046189
-2024,12,British Grand Prix,HAM,2.0,1.0,Finished,1,0.6483074063850113
-2024,12,British Grand Prix,VER,4.0,2.0,Finished,1,0.46731806958592403
+2024,12,British Grand Prix,HAM,2.0,1.0,Finished,1,0.6503074063850112
+2024,12,British Grand Prix,VER,4.0,2.0,Finished,1,0.46713949815735256
 2024,12,British Grand Prix,NOR,3.0,3.0,Finished,1,0.4943820986361159
-2024,12,British Grand Prix,PIA,5.0,4.0,Finished,0,0.3006286706251618
-2024,12,British Grand Prix,SAI,7.0,5.0,Finished,0,0.11043211778959058
+2024,12,British Grand Prix,PIA,5.0,4.0,Finished,0,0.3066535937696502
+2024,12,British Grand Prix,SAI,7.0,5.0,Finished,0,0.10991487641028024
 2024,12,British Grand Prix,HUL,6.0,6.0,Finished,0,0.039527369245141046
-2024,12,British Grand Prix,STR,8.0,7.0,Finished,0,0.013938013090971625
-2024,12,British Grand Prix,ALO,10.0,8.0,Finished,0,0.012610729523117526
-2024,12,British Grand Prix,ALB,9.0,9.0,Finished,0,0.0036228800234752194
-2024,12,British Grand Prix,TSU,13.0,10.0,Finished,0,0.0008158283890144612
-2024,12,British Grand Prix,SAR,12.0,11.0,Finished,0,0.006232318122730811
-2024,12,British Grand Prix,MAG,17.0,12.0,Finished,0,0.008440485341437433
-2024,12,British Grand Prix,RIC,15.0,13.0,Lapped,0,0.0031827452883197316
+2024,12,British Grand Prix,STR,8.0,7.0,Finished,0,0.01340229880525734
+2024,12,British Grand Prix,ALO,10.0,8.0,Finished,0,0.012604895217399907
+2024,12,British Grand Prix,ALB,9.0,9.0,Finished,0,0.0036170457177576
+2024,12,British Grand Prix,TSU,13.0,10.0,Finished,0,0.0008099940832968415
+2024,12,British Grand Prix,SAR,12.0,11.0,Finished,0,0.006226483817013191
+2024,12,British Grand Prix,MAG,17.0,12.0,Finished,0,0.008434651035719814
+2024,12,British Grand Prix,RIC,15.0,13.0,Lapped,0,0.003176910982602112
 2024,12,British Grand Prix,LEC,11.0,14.0,Lapped,0,0.058420249296876905
-2024,12,British Grand Prix,BOT,16.0,15.0,Lapped,0,4.915490107662875e-05
-2024,12,British Grand Prix,OCO,18.0,16.0,Lapped,0,0.014213591693574668
+2024,12,British Grand Prix,BOT,16.0,15.0,Lapped,0,4.332059535900915e-05
+2024,12,British Grand Prix,OCO,18.0,16.0,Lapped,0,0.014207757387857047
 2024,12,British Grand Prix,PER,20.0,17.0,Lapped,0,0.08005833149944898
-2024,12,British Grand Prix,ZHO,14.0,18.0,Lapped,0,0.00016118991916948538
-2024,12,British Grand Prix,RUS,1.0,,Retired,0,0.6908464597808565
-2024,12,British Grand Prix,GAS,19.0,,Did not start,0,0.00872118142970918
+2024,12,British Grand Prix,ZHO,14.0,18.0,Lapped,0,0.00015535561345186578
+2024,12,British Grand Prix,RUS,1.0,,Retired,0,0.6941156905500874
+2024,12,British Grand Prix,GAS,19.0,,Did not start,0,0.008715347123991558
 2024,13,Hungarian Grand Prix,PIA,2.0,1.0,Finished,1,0.5079825574657792
 2024,13,Hungarian Grand Prix,NOR,1.0,2.0,Finished,1,0.5762497435873399
 2024,13,Hungarian Grand Prix,HAM,5.0,3.0,Finished,1,0.2115854741510618
@@ -613,25 +613,25 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2025,8,Monaco Grand Prix,ANT,15.0,18.0,Lapped,0,0.018194365616115003
 2025,8,Monaco Grand Prix,ALO,6.0,,Retired,0,0.0253535899330998
 2025,8,Monaco Grand Prix,GAS,17.0,,Retired,0,0.00021242479105358148
-2025,9,Spanish Grand Prix,PIA,1.0,1.0,Finished,1,0.734261321921693
-2025,9,Spanish Grand Prix,NOR,2.0,2.0,Finished,1,0.670179408152505
-2025,9,Spanish Grand Prix,LEC,7.0,3.0,Finished,1,0.2102516820076773
-2025,9,Spanish Grand Prix,RUS,4.0,4.0,Finished,0,0.42103529768484643
-2025,9,Spanish Grand Prix,HUL,15.0,5.0,Finished,0,4.915490107662875e-05
-2025,9,Spanish Grand Prix,HAM,5.0,6.0,Finished,0,0.24815478588346018
-2025,9,Spanish Grand Prix,HAD,9.0,7.0,Finished,0,0.02048261547654879
-2025,9,Spanish Grand Prix,GAS,8.0,8.0,Finished,0,0.01227573876764223
-2025,9,Spanish Grand Prix,ALO,10.0,9.0,Finished,0,0.012128716002805089
+2025,9,Spanish Grand Prix,PIA,1.0,1.0,Finished,1,0.7370305526909238
+2025,9,Spanish Grand Prix,NOR,2.0,2.0,Finished,1,0.6711794081525049
+2025,9,Spanish Grand Prix,LEC,7.0,3.0,Finished,1,0.20730122278468005
+2025,9,Spanish Grand Prix,RUS,4.0,4.0,Finished,0,0.42487587739499133
+2025,9,Spanish Grand Prix,HUL,15.0,5.0,Finished,0,4.332059535900915e-05
+2025,9,Spanish Grand Prix,HAM,5.0,6.0,Finished,0,0.24784212924185617
+2025,9,Spanish Grand Prix,HAD,9.0,7.0,Finished,0,0.020476781170831168
+2025,9,Spanish Grand Prix,GAS,8.0,8.0,Finished,0,0.010490024481927944
+2025,9,Spanish Grand Prix,ALO,10.0,9.0,Finished,0,0.012122881697087471
 2025,9,Spanish Grand Prix,VER,3.0,10.0,Finished,0,0.48216378022534684
-2025,9,Spanish Grand Prix,LAW,13.0,11.0,Finished,0,0.018561964996906974
-2025,9,Spanish Grand Prix,BOR,12.0,12.0,Finished,0,0.004841243398164625
+2025,9,Spanish Grand Prix,LAW,13.0,11.0,Finished,0,0.018556130691189353
+2025,9,Spanish Grand Prix,BOR,12.0,12.0,Finished,0,0.0048354090924470055
 2025,9,Spanish Grand Prix,TSU,19.0,13.0,Finished,0,0.020837512774667662
-2025,9,Spanish Grand Prix,SAI,17.0,14.0,Finished,0,0.0005285910095985271
-2025,9,Spanish Grand Prix,COL,18.0,15.0,Finished,0,0.0001719948250815359
-2025,9,Spanish Grand Prix,OCO,16.0,16.0,Finished,0,0.0022288571710058903
-2025,9,Spanish Grand Prix,BEA,14.0,17.0,Finished,0,0.00034765075495751184
+2025,9,Spanish Grand Prix,SAI,17.0,14.0,Finished,0,0.0005227567038809075
+2025,9,Spanish Grand Prix,COL,18.0,15.0,Finished,0,0.00016616051936391632
+2025,9,Spanish Grand Prix,OCO,16.0,16.0,Finished,0,0.0022230228652882706
+2025,9,Spanish Grand Prix,BEA,14.0,17.0,Finished,0,0.00034181644923989224
 2025,9,Spanish Grand Prix,ANT,6.0,,Retired,0,0.0833206120653711
-2025,9,Spanish Grand Prix,ALB,11.0,,Retired,0,0.0191312467786572
+2025,9,Spanish Grand Prix,ALB,11.0,,Retired,0,0.01912541247293958
 2025,10,Canadian Grand Prix,RUS,1.0,1.0,Finished,1,0.6858913112216857
 2025,10,Canadian Grand Prix,VER,2.0,2.0,Finished,1,0.6607849477229776
 2025,10,Canadian Grand Prix,ANT,4.0,3.0,Finished,1,0.3437420626009654
@@ -926,25 +926,25 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2025,24,Abu Dhabi Grand Prix,LAW,13.0,18.0,Lapped,0,0.010033415484865811
 2025,24,Abu Dhabi Grand Prix,GAS,19.0,19.0,Lapped,0,0.023767009416715102
 2025,24,Abu Dhabi Grand Prix,COL,20.0,20.0,Lapped,0,0.00017614510699485823
-2026,1,Australian Grand Prix,RUS,1.0,1.0,Finished,1,0.7065954005369552
-2026,1,Australian Grand Prix,ANT,2.0,2.0,Finished,1,0.6526114959066628
-2026,1,Australian Grand Prix,LEC,4.0,3.0,Finished,1,0.19676821913207598
-2026,1,Australian Grand Prix,HAM,7.0,4.0,Finished,0,0.046849227881720384
-2026,1,Australian Grand Prix,NOR,6.0,5.0,Finished,0,0.11269732668923166
-2026,1,Australian Grand Prix,BEA,12.0,7.0,Lapped,0,0.003828480882594769
-2026,1,Australian Grand Prix,LIN,9.0,8.0,Lapped,0,0.007306340539289072
-2026,1,Australian Grand Prix,BOR,10.0,9.0,Lapped,0,0.005306340539289073
-2026,1,Australian Grand Prix,GAS,14.0,10.0,Lapped,0,0.0020452376289083712
-2026,1,Australian Grand Prix,OCO,13.0,11.0,Lapped,0,0.0017919616552825718
-2026,1,Australian Grand Prix,ALB,15.0,12.0,Lapped,0,0.0016215170117230447
-2026,1,Australian Grand Prix,LAW,8.0,13.0,Lapped,0,0.018969183891463907
-2026,1,Australian Grand Prix,COL,16.0,14.0,Lapped,0,0.0011307999929526377
-2026,1,Australian Grand Prix,PER,18.0,16.0,Lapped,0,0.0016215170117230447
-2026,1,Australian Grand Prix,ALO,17.0,,Retired,0,0.0016215170117230447
-2026,1,Australian Grand Prix,BOT,19.0,,Retired,0,0.0002012640767678672
-2026,1,Australian Grand Prix,HAD,3.0,,Retired,0,0.3938262178820044
-2026,1,Australian Grand Prix,PIA,5.0,,Did not start,0,0.059055002890312173
-2026,1,Australian Grand Prix,HUL,11.0,,Did not start,0,0.0037232980656732254
+2026,1,Australian Grand Prix,RUS,1.0,1.0,Finished,1,0.6639413171743479
+2026,1,Australian Grand Prix,ANT,2.0,2.0,Finished,1,0.6529091149542817
+2026,1,Australian Grand Prix,LEC,4.0,3.0,Finished,1,0.18495332904280512
+2026,1,Australian Grand Prix,HAM,7.0,4.0,Finished,0,0.0570214922704482
+2026,1,Australian Grand Prix,NOR,6.0,5.0,Finished,0,0.09458446268458828
+2026,1,Australian Grand Prix,BEA,12.0,7.0,Lapped,0,0.0020018966497127016
+2026,1,Australian Grand Prix,LIN,9.0,8.0,Lapped,0,0.002116119942770641
+2026,1,Australian Grand Prix,BOR,10.0,9.0,Lapped,0,0.002116119942770641
+2026,1,Australian Grand Prix,GAS,14.0,10.0,Lapped,0,0.0015813984940655187
+2026,1,Australian Grand Prix,OCO,13.0,11.0,Lapped,0,0.004644169555022224
+2026,1,Australian Grand Prix,ALB,15.0,12.0,Lapped,0,0.0011576778768801921
+2026,1,Australian Grand Prix,LAW,8.0,13.0,Lapped,0,0.028729628540903728
+2026,1,Australian Grand Prix,COL,16.0,14.0,Lapped,0,0.001602055511739908
+2026,1,Australian Grand Prix,PER,18.0,16.0,Lapped,0,0.0011576778768801921
+2026,1,Australian Grand Prix,ALO,17.0,,Retired,0,0.0011576778768801921
+2026,1,Australian Grand Prix,BOT,19.0,,Retired,0,0.00019197039647046943
+2026,1,Australian Grand Prix,HAD,3.0,,Retired,0,0.3758084203200891
+2026,1,Australian Grand Prix,PIA,5.0,,Did not start,0,0.06390751758429028
+2026,1,Australian Grand Prix,HUL,11.0,,Did not start,0,0.00825358398495431
 2026,2,Chinese Grand Prix,ANT,1.0,1.0,Finished,1,0.8618424739210715
 2026,2,Chinese Grand Prix,RUS,2.0,2.0,Finished,1,0.8214596396250807
 2026,2,Chinese Grand Prix,HAM,3.0,3.0,Finished,1,0.5279238804142126
@@ -952,29 +952,29 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2026,2,Chinese Grand Prix,BEA,10.0,5.0,Finished,0,0.01036649754694186
 2026,2,Chinese Grand Prix,GAS,7.0,6.0,Finished,0,0.060113027747480466
 2026,2,Chinese Grand Prix,LAW,14.0,7.0,Finished,0,0.0026440058298612596
-2026,2,Chinese Grand Prix,HAD,9.0,8.0,Finished,0,0.030346889626627665
-2026,2,Chinese Grand Prix,SAI,17.0,9.0,Lapped,0,0.0016215170117230447
+2026,2,Chinese Grand Prix,HAD,9.0,8.0,Finished,0,0.01947693923305206
+2026,2,Chinese Grand Prix,SAI,17.0,9.0,Lapped,0,0.0016122233314256468
 2026,2,Chinese Grand Prix,COL,12.0,10.0,Lapped,0,0.005297045083651264
-2026,2,Chinese Grand Prix,HUL,11.0,11.0,Lapped,0,0.007202600897917235
+2026,2,Chinese Grand Prix,HUL,11.0,11.0,Lapped,0,0.012661458245769745
 2026,2,Chinese Grand Prix,LIN,15.0,12.0,Lapped,0,0.00042148135983240804
-2026,2,Chinese Grand Prix,BOT,19.0,13.0,Lapped,0,0.0002012640767678672
+2026,2,Chinese Grand Prix,BOT,19.0,13.0,Lapped,0,0.00019197039647046943
 2026,2,Chinese Grand Prix,OCO,13.0,14.0,Lapped,0,0.0009278341098049122
 2026,2,Chinese Grand Prix,PER,21.0,15.0,Lapped,0,4.332059535900915e-05
-2026,2,Chinese Grand Prix,VER,8.0,,Retired,0,0.032840282940352565
-2026,2,Chinese Grand Prix,ALO,18.0,,Retired,0,0.0016215170117230447
-2026,2,Chinese Grand Prix,STR,20.0,,Retired,0,0.0016215170117230447
-2026,2,Chinese Grand Prix,PIA,5.0,,Did not start,0,0.1688822849300234
+2026,2,Chinese Grand Prix,VER,8.0,,Retired,0,0.04433932232838712
+2026,2,Chinese Grand Prix,ALO,18.0,,Retired,0,0.0011576778768801921
+2026,2,Chinese Grand Prix,STR,20.0,,Retired,0,0.0011576778768801921
+2026,2,Chinese Grand Prix,PIA,5.0,,Did not start,0,0.16995190974964822
 2026,2,Chinese Grand Prix,NOR,6.0,,Did not start,0,0.27061732906735175
 2026,2,Chinese Grand Prix,BOR,16.0,,Did not start,0,0.00023280211454938915
 2026,2,Chinese Grand Prix,ALB,22.0,,Did not start,0,0.0002595878717405163
 2026,3,Japanese Grand Prix,ANT,1.0,1.0,Finished,1,0.9007748704320956
-2026,3,Japanese Grand Prix,PIA,3.0,2.0,Finished,1,0.44044688581720726
+2026,3,Japanese Grand Prix,PIA,3.0,2.0,Finished,1,0.43741117153149295
 2026,3,Japanese Grand Prix,LEC,4.0,3.0,Finished,1,0.3279815128296444
 2026,3,Japanese Grand Prix,RUS,2.0,4.0,Finished,0,0.8213357666695859
 2026,3,Japanese Grand Prix,NOR,5.0,5.0,Finished,0,0.24517968475951002
 2026,3,Japanese Grand Prix,HAM,6.0,6.0,Finished,0,0.1897358567648661
 2026,3,Japanese Grand Prix,GAS,7.0,7.0,Finished,0,0.014434405773205063
-2026,3,Japanese Grand Prix,VER,11.0,8.0,Finished,0,0.005802878571886319
+2026,3,Japanese Grand Prix,VER,11.0,8.0,Finished,0,0.0103331644911674
 2026,3,Japanese Grand Prix,LAW,14.0,9.0,Finished,0,0.0005166736618555288
 2026,3,Japanese Grand Prix,OCO,12.0,10.0,Finished,0,0.003346848404186229
 2026,3,Japanese Grand Prix,HUL,13.0,11.0,Finished,0,0.0005310844945965854
@@ -984,10 +984,10 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2026,3,Japanese Grand Prix,SAI,16.0,15.0,Finished,0,0.0008086005850847019
 2026,3,Japanese Grand Prix,COL,15.0,16.0,Finished,0,0.0004882994576988934
 2026,3,Japanese Grand Prix,PER,19.0,17.0,Finished,0,4.332059535900915e-05
-2026,3,Japanese Grand Prix,ALO,21.0,18.0,Lapped,0,0.0016215170117230447
+2026,3,Japanese Grand Prix,ALO,21.0,18.0,Lapped,0,0.0011576778768801921
 2026,3,Japanese Grand Prix,BOT,20.0,19.0,Lapped,0,0.0002812561107561837
 2026,3,Japanese Grand Prix,ALB,17.0,20.0,Lapped,0,0.00023128598494806342
-2026,3,Japanese Grand Prix,STR,22.0,,Retired,0,0.0002012640767678672
+2026,3,Japanese Grand Prix,STR,22.0,,Retired,0,0.00019197039647046943
 2026,3,Japanese Grand Prix,BEA,18.0,,Retired,0,0.0067872526646973195
 2026,4,Miami Grand Prix,ANT,1.0,1.0,Finished,1,0.8395902621466388
 2026,4,Miami Grand Prix,NOR,4.0,2.0,Finished,1,0.3705029590373681
@@ -1005,7 +1005,7 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2026,4,Miami Grand Prix,LIN,16.0,14.0,Lapped,0,0.00045210579125806407
 2026,4,Miami Grand Prix,ALO,17.0,15.0,Lapped,0,8.19417863225304e-05
 2026,4,Miami Grand Prix,PER,20.0,16.0,Lapped,0,8.19417863225304e-05
-2026,4,Miami Grand Prix,STR,18.0,17.0,Lapped,0,0.00023988526773138845
+2026,4,Miami Grand Prix,STR,18.0,17.0,Lapped,0,0.00023059158743399068
 2026,4,Miami Grand Prix,BOT,19.0,18.0,Lapped,0,8.19417863225304e-05
 2026,4,Miami Grand Prix,HUL,10.0,,Retired,0,0.003976168245215209
 2026,4,Miami Grand Prix,LAW,11.0,,Retired,0,0.004119315517578989
@@ -1111,7 +1111,7 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2026,9,British Grand Prix,PIA,8.0,11.0,Finished,0,0.13591257009296673
 2026,9,British Grand Prix,BEA,13.0,12.0,Finished,0,0.0034568204379012476
 2026,9,British Grand Prix,OCO,17.0,13.0,Finished,0,0.0002525042138239381
-2026,9,British Grand Prix,PER,20.0,14.0,Finished,0,0.0006901845786721249
+2026,9,British Grand Prix,PER,20.0,14.0,Finished,0,0.0016901845786721247
 2026,9,British Grand Prix,ANT,1.0,15.0,Finished,0,0.6282919351305858
 2026,9,British Grand Prix,BOT,18.0,16.0,Finished,0,6.85723768047841e-05
 2026,9,British Grand Prix,SAI,14.0,17.0,Lapped,0,0.000991908847933802
@@ -1174,11 +1174,11 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2026,12,Dutch Grand Prix,HUL,13.0,8.0,Lapped,0,0.000741357658007002
 2026,12,Dutch Grand Prix,ALO,18.0,9.0,Lapped,0,9.664766867547157e-05
 2026,12,Dutch Grand Prix,GAS,11.0,10.0,Lapped,0,0.004742448755051838
-2026,12,Dutch Grand Prix,TSU,12.0,11.0,Lapped,0,0.004660510681773093
+2026,12,Dutch Grand Prix,TSU,12.0,11.0,Lapped,0,0.005229168797962961
 2026,12,Dutch Grand Prix,LIN,10.0,12.0,Lapped,0,0.05125075835383051
 2026,12,Dutch Grand Prix,BOR,9.0,13.0,Lapped,0,0.02418942075578401
 2026,12,Dutch Grand Prix,COL,14.0,14.0,Lapped,0,0.001957524829297923
-2026,12,Dutch Grand Prix,PER,22.0,15.0,Lapped,0,0.001571010679604301
+2026,12,Dutch Grand Prix,PER,22.0,15.0,Lapped,0,0.0025710106796043015
 2026,12,Dutch Grand Prix,SAI,17.0,16.0,Lapped,0,9.664766867547157e-05
 2026,12,Dutch Grand Prix,ALB,16.0,17.0,Retired,0,9.664766867547157e-05
 2026,12,Dutch Grand Prix,BOT,21.0,,Retired,0,9.664766867547157e-05
@@ -1294,27 +1294,27 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2026,17,Singapore Grand Prix,COL,15.0,,Retired,0,0.00044292140616116106
 2026,17,Singapore Grand Prix,BOR,14.0,,Retired,0,0.003375082897892143
 2026,18,United States Grand Prix,ANT,1.0,1.0,Finished,1,0.8332446042240325
-2026,18,United States Grand Prix,LEC,4.0,2.0,Finished,1,0.4353336648732211
+2026,18,United States Grand Prix,LEC,4.0,2.0,Finished,1,0.43640509344464967
 2026,18,United States Grand Prix,VER,2.0,3.0,Finished,1,0.7635519190130557
-2026,18,United States Grand Prix,HAM,5.0,4.0,Finished,0,0.37204423224042527
-2026,18,United States Grand Prix,NOR,8.0,5.0,Finished,0,0.17516077901717267
+2026,18,United States Grand Prix,HAM,5.0,4.0,Finished,0,0.3723815338277269
+2026,18,United States Grand Prix,NOR,8.0,5.0,Finished,0,0.17860782335214803
 2026,18,United States Grand Prix,HAD,3.0,6.0,Finished,0,0.581226250452634
 2026,18,United States Grand Prix,PIA,7.0,7.0,Finished,0,0.06794689283492424
-2026,18,United States Grand Prix,RUS,6.0,8.0,Finished,0,0.26781341923843954
+2026,18,United States Grand Prix,RUS,6.0,8.0,Finished,0,0.26186103828605856
 2026,18,United States Grand Prix,LAW,9.0,9.0,Finished,0,0.04038921562600892
-2026,18,United States Grand Prix,GAS,10.0,10.0,Finished,0,0.023708448189975383
-2026,18,United States Grand Prix,HUL,11.0,11.0,Finished,0,0.011211873489222826
-2026,18,United States Grand Prix,LIN,14.0,12.0,Lapped,0,0.016306212971034448
-2026,18,United States Grand Prix,BOR,21.0,13.0,Lapped,0,0.006022545155724918
-2026,18,United States Grand Prix,OCO,15.0,14.0,Lapped,0,0.00014438631771343362
-2026,18,United States Grand Prix,STR,22.0,15.0,Lapped,0,0.00017962564766530492
-2026,18,United States Grand Prix,ALO,12.0,16.0,Lapped,0,4.1099641984602205e-05
-2026,18,United States Grand Prix,ALB,17.0,17.0,Lapped,0,4.915490107662875e-05
-2026,18,United States Grand Prix,SAI,16.0,18.0,Lapped,0,4.915490107662875e-05
-2026,18,United States Grand Prix,PER,18.0,19.0,Lapped,0,4.915490107662875e-05
-2026,18,United States Grand Prix,BOT,19.0,,Retired,0,0.002477726329648057
-2026,18,United States Grand Prix,COL,20.0,,Retired,0,0.0013070326531360074
-2026,18,United States Grand Prix,BEA,13.0,,Retired,0,0.004362275612728227
+2026,18,United States Grand Prix,GAS,10.0,10.0,Finished,0,0.02370261388425776
+2026,18,United States Grand Prix,HUL,11.0,11.0,Finished,0,0.011206039183505205
+2026,18,United States Grand Prix,LIN,14.0,12.0,Lapped,0,0.016300378665316827
+2026,18,United States Grand Prix,BOR,21.0,13.0,Lapped,0,0.006016710850007299
+2026,18,United States Grand Prix,OCO,15.0,14.0,Lapped,0,0.00013855201199581402
+2026,18,United States Grand Prix,STR,22.0,15.0,Lapped,0,0.00017379134194768533
+2026,18,United States Grand Prix,ALO,12.0,16.0,Lapped,0,3.52653362669826e-05
+2026,18,United States Grand Prix,ALB,17.0,17.0,Lapped,0,4.332059535900915e-05
+2026,18,United States Grand Prix,SAI,16.0,18.0,Lapped,0,4.332059535900915e-05
+2026,18,United States Grand Prix,PER,18.0,19.0,Lapped,0,4.332059535900915e-05
+2026,18,United States Grand Prix,BOT,19.0,,Retired,0,0.0024718920239304378
+2026,18,United States Grand Prix,COL,20.0,,Retired,0,0.0013011983474183878
+2026,18,United States Grand Prix,BEA,13.0,,Retired,0,0.004356441307010607
 2026,19,Mexico City Grand Prix,VER,5.0,1.0,Finished,1,0.5669999157095738
 2026,19,Mexico City Grand Prix,HAM,1.0,2.0,Finished,1,0.6157852714375376
 2026,19,Mexico City Grand Prix,ANT,4.0,3.0,Finished,1,0.4924892227141773
@@ -1327,7 +1327,7 @@ Year,RoundNumber,EventName,Abbreviation,GridPosition,ClassifiedPosition,Status,P
 2026,19,Mexico City Grand Prix,GAS,9.0,10.0,Finished,0,0.052375442975112214
 2026,19,Mexico City Grand Prix,BOR,13.0,11.0,Finished,0,0.018486280311696093
 2026,19,Mexico City Grand Prix,HAD,7.0,12.0,Finished,0,0.22224104624544005
-2026,19,Mexico City Grand Prix,HIR,18.0,13.0,Finished,0,0.000264591883256733
+2026,19,Mexico City Grand Prix,HIR,18.0,13.0,Finished,0,0.00025529820295933526
 2026,19,Mexico City Grand Prix,ALB,16.0,14.0,Finished,0,8.19417863225304e-05
 2026,19,Mexico City Grand Prix,SAI,15.0,15.0,Finished,0,8.19417863225304e-05
 2026,19,Mexico City Grand Prix,HUL,10.0,16.0,Finished,0,0.024292291387508422
